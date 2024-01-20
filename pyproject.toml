@@ -4,6 +4,8 @@ version = "0.1.6"
 description = ""
 authors = ["ninjawarrior1337 <me@treelar.xyz>"]
 readme = "README.md"
+license = "MIT"
+repository = "https://github.com/ninjawarrior1337/anova_ble"
 
 [tool.poetry.dependencies]
 python = "^3.10, <3.13"
